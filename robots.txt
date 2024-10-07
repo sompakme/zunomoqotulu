@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zunomoqotulu.pages.dev/sitemap.xml
